@@ -1,4 +1,4 @@
-# Pyspark-Big_Data
+# Pyspark-Big_Data - Uri Jared Gopar Morales_A01709413
 Este proyecto utiliza PySpark para procesar y analizar un conjunto de datos de gran tamaño sobre imágenes de hongos, aplicando técnicas de big data para manejar eficientemente los datos y construir un modelo de clasificación. La visualización de los resultados se realiza a través de Tableau, donde se presentan gráficos interactivos que permiten explorar patrones y tendencias en el conjunto de datos.
 
 El flujo de trabajo incluye:
